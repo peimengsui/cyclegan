@@ -1,5 +1,6 @@
 # cyclegan generate results on NYU HPC Prince
 
+First, please clone this repo to NYU HPC File system. 
 ## To download the dataset and the trained the model, first run 
 ```bash
 wget https://s3.amazonaws.com/deeplearningfrc/cycle_gan_training.zip
